@@ -6,51 +6,28 @@
   </picture>
 </p>
 
-I make browser tools, mess with TV interfaces, and build automations for things I actually use. Sometimes the project starts with an idea. Usually it starts with something annoying me.
+I build things I wish already existed. Mostly browser tools and TV stuff.
 
-### Stuff I've made
+### stuff i've made
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Ticklect/Easy-Social-MCPs"><b>Easy Social MCPs ↗</b></a>
       <br><br>
-      Local browser-session MCPs for Reddit, X, TikTok and YouTube. Built for working with social platforms from an AI coding client.
-      <br><br>
-      <sub>JAVASCRIPT · MCP · BROWSER AUTOMATION</sub>
+      MCP tools for Reddit, X, TikTok and YouTube. Log in through your browser and use them from your MCP client.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ticklect/tvdoctor"><b>TVDoctor ↗</b></a>
       <br><br>
-      Tests TV apps with real D-pad navigation. Finds focus and navigation problems, then gives you evidence and replayable steps.
-      <br><br>
-      <sub>TYPESCRIPT · PLAYWRIGHT · TV QA</sub>
+      Tests TV apps with a remote's D-pad. Catches broken navigation, focus getting stuck and buttons that don't work.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <a href="https://github.com/Ticklect/youtube-downloader"><b>YouTube Downloader ↗</b></a>
       <br><br>
-      A browser extension and local Windows helper for saving permitted channel videos, audio and captions.
-      <br><br>
-      <sub>PYTHON · BROWSER EXTENSIONS · FFMPEG</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Ticklect/stellar-tv"><b>Stellar TV ↗</b></a>
-      <br><br>
-      Makes a web interface work with TV remotes, including D-pad focus, playback keys and navigation on Tizen and Android TV.
-      <br><br>
-      <sub>JAVASCRIPT · KOTLIN · SMART TV</sub>
+      A Chrome/Firefox extension and Windows helper. Pick videos from a channel and save video, MP3s or captions to your PC.
     </td>
   </tr>
 </table>
-
-Also made a [Roblox game-development advisor](https://github.com/Ticklect/tizzy-rblx-advisor) from a set of public creator videos.
-
-### Things I keep coming back to
-
-`MCP & agents` &nbsp; `local-first tools` &nbsp; `creator workflows` &nbsp; `TV software` &nbsp; `games`
-
-<p align="right">
-  <a href="https://github.com/Ticklect?tab=repositories">all repositories →</a>
-</p>
