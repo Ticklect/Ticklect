@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ticklect. i make stuff.</title>
+  <desc id="desc">Light graphical header with a small terminal window, describing a developer who builds tools and experiments.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#F4F8F8"/>
+      <stop offset="1" stop-color="#EAF3F6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#19A879"/>
+      <stop offset="1" stop-color="#2A9FC4"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#2E667B" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="bounds"><rect x="1" y="1" width="1078" height="318" rx="22"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1078" height="318" rx="22" fill="url(#surface)" stroke="#C6DBE1" stroke-width="2"/>
+  <g clip-path="url(#bounds)">
+    <rect width="1080" height="320" fill="url(#grid)"/>
+    <path d="M0 0H12V320H0Z" fill="url(#accent)"/>
+    <circle cx="1017" cy="23" r="130" fill="#45A8C4" opacity=".055"/>
+    <circle cx="615" cy="325" r="220" fill="#168D9B" opacity=".045"/>
+  </g>
+
+  <rect x="56" y="45" width="9" height="9" rx="2" fill="#159D77"/>
+  <text x="78" y="54" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.2" fill="#526F7B">TICKLECT / 001</text>
+
+  <text x="56" y="151" font-family="'Segoe UI', Arial, sans-serif" font-weight="750" font-size="74" letter-spacing="-2.8" fill="#192C3A">i make stuff<tspan fill="#159D77">.</tspan></text>
+  <text x="59" y="194" font-family="'Segoe UI', Arial, sans-serif" font-size="21" fill="#466370">tools, experiments and questionable ideas</text>
+
+  <path d="M57 232H580" stroke="#B8CED2" stroke-width="1"/>
+  <text x="58" y="265" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing=".8" fill="#188A6F">MCP</text>
+  <text x="109" y="265" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#97B0B7">/</text>
+  <text x="129" y="265" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing=".8" fill="#304C58">TV APPS</text>
+  <text x="220" y="265" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#97B0B7">/</text>
+  <text x="240" y="265" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing=".8" fill="#304C58">AUTOMATION</text>
+  <text x="364" y="265" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#97B0B7">/</text>
+  <text x="384" y="265" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing=".8" fill="#304C58">GAMES</text>
+
+  <g transform="translate(652 42)">
+    <rect x="9" y="10" width="372" height="236" rx="14" fill="#497B87" opacity=".14"/>
+    <rect width="372" height="236" rx="14" fill="#FFFFFF" stroke="#AFC7CF" stroke-width="1.5"/>
+    <path d="M0 43H372" stroke="#D2E1E6"/>
+    <circle cx="22" cy="22" r="5" fill="#D4777C"/>
+    <circle cx="40" cy="22" r="5" fill="#DDB363"/>
+    <circle cx="58" cy="22" r="5" fill="#5EBC95"/>
+    <text x="186" y="27" text-anchor="middle" font-size="13" font-family="Consolas, 'Courier New', monospace" fill="#718994">ticklect@local ~</text>
+
+    <text x="24" y="80" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#188A6F">$</text>
+    <text x="46" y="80" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#264451">what are you building?</text>
+    <text x="24" y="113" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#567381">something i wanted to exist.</text>
+    <text x="24" y="157" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#188A6F">$</text>
+    <text x="46" y="157" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#264451">status</text>
+    <text x="24" y="190" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#567381">still making stuff</text>
+    <rect x="198" y="177" width="9" height="16" rx="1" fill="url(#accent)"/>
+  </g>
+</svg>
