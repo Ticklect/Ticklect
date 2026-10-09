@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-labelledby="name meaning">
+  <title id="name">Ticklect</title>
+  <desc id="meaning">Several tangled paths becoming one clear line.</desc>
+  <defs>
+    <clipPath id="edge"><rect width="1080" height="300" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#edge)">
+    <rect width="1080" height="300" fill="#101416"/>
+    <path d="M0 0H13V300H0Z" fill="#B9EA67"/>
+    <path d="M606 -16C641 26 599 80 682 99C753 116 697 184 777 177S876 133 928 150H1080" stroke="#40494A" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M642 54C731 54 666 191 763 200C842 207 828 153 929 153H1080" stroke="#56605E" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M607 315C642 266 622 224 707 230C794 237 744 148 844 150H1080" stroke="#303B3B" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M591 262C684 262 682 164 761 158C823 153 835 151 927 151H1080" stroke="#B9EA67" stroke-width="11" stroke-linecap="round" fill="none"/>
+    <circle cx="590" cy="262" r="9" fill="#B9EA67"/>
+    <path d="M967 151H1080" stroke="#B9EA67" stroke-width="11" stroke-linecap="round"/>
+    <path d="M58 224H130" stroke="#B9EA67" stroke-width="5" stroke-linecap="round"/>
+    <text x="55" y="185" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="800" letter-spacing="-5" fill="#F3F4EF">ticklect</text>
+  </g>
+</svg>
